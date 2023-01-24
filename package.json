@@ -1,0 +1,27 @@
+{
+  "name": "random-string-hello",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chuy-dev/random-string-hello.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Jesus Calderas <jsscalderas0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chuy-dev/random-string-hello/issues"
+  },
+  "homepage": "https://github.com/Chuy-dev/random-string-hello#readme",
+  "bin": {
+    "random-string-hello": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
